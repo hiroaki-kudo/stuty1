@@ -1,0 +1,39 @@
+.haba td {
+  padding-left: 10px;
+}
+
+.haba th {
+  text-align: right;
+  width: 150px;
+  height: 7rem;
+}
+
+#haba2 {
+  width: 480px;
+}
+
+.haba textarea {
+  width: 480px;
+}
+
+.sousin {
+  width: 100%;
+}
+
+.sousin li{
+  width: 94px;
+  margin: 0 auto;
+  background-color: #008B8B;
+  padding: 10px;
+  font-size: 3rem;
+  color: #fff;
+}
+
+.sousin li:hover {
+  opacity: 0.5;
+}
+
+
+.sousin {
+  text-align: center;
+}
